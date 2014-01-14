@@ -9,8 +9,10 @@ In this example, a custom cookbooks archive containing Git repositories among it
 To reproduce the bug:
 
 1. Clone this repository:
-    git clone git@github.com:fancyremarker/opsworks-breaking-examples.git
-    cd opsworks-breaking-examples/
+
+        git clone git@github.com:fancyremarker/opsworks-breaking-examples.git
+        cd opsworks-breaking-examples/
+
 1. Run `berks package` and upload the resulting file, `package.tar.gz`, to an HTTP URL.
 1. Create a new stack in OpsWorks, making sure to set:
     - Default operating system: Ubuntu 12.04 LTS
