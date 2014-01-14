@@ -2,7 +2,7 @@
 
 Examples of configurations that break OpsWorks.
 
-## [aws/opsworks-cookbooks#97](/aws/opsworks-cookbooks/issues/97)
+## [aws/opsworks-cookbooks#97](https://github.com/aws/opsworks-cookbooks/issues/97)
 
 In this example, a custom cookbooks archive containing Git repositories among its subdirectories (as with almost any archive produced by `berks package`), will fail to include any of these Git repositories among the available cookbooks.
 
