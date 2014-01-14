@@ -1,8 +1,8 @@
 name             'opsworks-breaking-examples'
-maintainer       'YOUR_NAME'
-maintainer_email 'YOUR_EMAIL'
-license          'All rights reserved'
-description      'Installs/Configures opsworks-breaking-examples'
+maintainer       'Frank Macreery'
+maintainer_email 'frank@macreery.com'
+license          'MIT'
+description      'Examples of configurations that break OpsWorks'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
 version          '0.1.0'
 

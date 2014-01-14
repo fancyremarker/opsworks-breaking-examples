@@ -1,13 +1,9 @@
-# opsworks-breaking-examples cookbook
+# opsworks-breaking-examples
 
-# Requirements
+Examples of configurations that break OpsWorks.
 
-# Usage
+## Copyright and License
 
-# Attributes
+MIT License, see [LICENSE](LICENSE) for details.
 
-# Recipes
-
-# Author
-
-Author:: YOUR_NAME (<YOUR_EMAIL>)
+Copyright (c) 2014 [Frank Macreery](https://github.com/fancyremarker).
